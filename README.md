@@ -1,5 +1,7 @@
 # Data-Driven Forecasting of Hotel Booking Cancellations
 
+![Hotel_Booking_Cancellation_1](https://github.com/pdange21/Data-Driven-Forecasting-of-Hotel-Booking-Cancellations/assets/111932664/db29d9d7-1822-407d-97ca-3b0a78d39f3c)
+
 ## Description
 This project conducts an analysis of different predictive models to forecast hotel booking cancellations. A significant emphasis is placed on feature engineering to enhance the accuracy of the forecasting models.
 
